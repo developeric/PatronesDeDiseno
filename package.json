@@ -1,0 +1,19 @@
+{
+  "name": "patronesdiseno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "01-srp": "node ejercicios/Singleton.ts",
+    "02-ocp": "node ejercicios/Factory.ts",
+    "03-lsp": "node ejercicios/Observer.ts",
+    "04-isp": "node ejercicios/Adapter.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
